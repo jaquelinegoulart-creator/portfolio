@@ -8,7 +8,9 @@ header{
 }
 
 span{
-    background-color: gray;
+    background-color: rgba(0, 255, 255, 0.61);
     color: white;
+    padding: 5px;
+    border: 1px solid black;
 }
 
