@@ -6,3 +6,8 @@ body{
 header{
     text-align: center;
 }
+
+span{
+    background-color: gray;
+    color: white;
+}
