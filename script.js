@@ -8,6 +8,3 @@ if (texto.textContent == null){
 else{
     texto.textContent = nome;
 }
-
-
-texto.textContent = nome;
