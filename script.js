@@ -1,5 +1,5 @@
-let nome = document.querySelector("#texto");
-nome.textContent = "Jaqueline";
+let texto = document.querySelector("#texto");
+texto.textContent = "Jaqueline";
 
 let nome = prompt ("Qual é o seu nome?");
 if (nome == null){
